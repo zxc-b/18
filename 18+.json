@@ -18,6 +18,22 @@
   "sites": [
 
 
+
+
+    { 
+    
+       "key": "福利资源", 
+      
+          "name": "往后余生‖永不言败", 
+          
+             "type": 3, 
+             
+                "api": "https://bitbucket.org/yim01/yim01/raw/68c93a18fcba10c78bfab0d6cb14523ae6f8f1bb/zbzdb.js", 
+              
+                   "ext": "https://bitbucket.org/yim01/yim01/raw/fae9441abfdc3786931d1749334e6c66a89837ee/fljk2.js" 
+                   
+                   },
+
     {
       "key":"chengren",
        "name":"🈵成人影视1",
