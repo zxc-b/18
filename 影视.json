@@ -1,0 +1,49 @@
+{
+  "sites": [
+    {
+      "key": "hsck",
+      "name": "🎬 影视仓（hsck.cc）",
+      "type": 3,
+      "api": "https://hsck.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzzy",
+      "name": "💎 量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "🚀 非凡资源",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "leduo",
+      "name": "🎥 乐多资源",
+      "type": 1,
+      "api": "https://api.leduotv.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bdzy",
+      "name": "📺 百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
