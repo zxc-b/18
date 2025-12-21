@@ -1,5 +1,22 @@
 ﻿张芸熙,#genre#
-1,https://t5s.cdn2020.com/video/m3u8/2020/11/25/d94fb8ed/index.m3u8
+松視3,http://z3.ubtvfans.com/live/rx3/404/57ed7bfbbca3bc4f719e9d9519a4f409/index.m3u8
+潘朵拉完美,http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
+HAPPY,http://z88.ubtvfans.com/live/rx3/2908/bc0aa6ce3602ddcd50c5e522a53cb857/index.m3u8
+JStar,https://z88.ubtvfans.com/live/rx3/2909/e8831e8b236d26de96babfcb64ab28ad/index.m3u8
+彩虹E,http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
+彩虹E,http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
+彩虹K,https://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u8
+Brazzers TV,http://z88.ubtvfans.com/live/rx4/3076/e9fb14dec2b1a56964a84ee20c1fc9e4/index.m3u8
+潘朵拉完美,http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
+Banana香蕉,http://z88.ubtvfans.com/live/rx3/2930/0cdd444b347afad160bbafa0b96d844d/index.m3u8
+LOOK,http://z88.ubtvfans.com/live/rx4/2933/8fbf8b6d7e73e1134f06b30b80daa06f/index.m3u8
+極限電影,https://z88.ubtvfans.com/live/rx2/405/edbcd09f2865ec906139ec4677a87d4e/index.m3u8
+潘朵拉完美,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+香蕉,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+松視1台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+松視2台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+松視3台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+驚艷,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/851,https://t5s.cdn2020.com/video/m3u8/2020/11/25/d94fb8ed/index.m3u8
 2,https://t20a.cdn2020.com/video/m3u8/2022/10/23/c82dabce/index.m3u8
 3,https://t20a.cdn2020.com/video/m3u8/2022/10/05/41db4165/index.m3u8
 4,https://t18.cdn2020.com:12342/video/m3u8/2022/05/31/81fb1fd9/index.m3u8
